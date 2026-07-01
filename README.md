@@ -1,1 +1,3 @@
-# sensorium_hardware
+Sensorium Work Folder
+>> Sensorium
+>> Sensorium Hardware
